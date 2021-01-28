@@ -1,6 +1,12 @@
 package main
-import "fmt"
+
+import {
+	"fmt"
+
+	"something/something"
+}
 
 func main() {
 	fmt.Println("Hello World!")
+	math.Phi(0)
 }
